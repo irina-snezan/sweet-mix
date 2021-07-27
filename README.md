@@ -1,3 +1,3 @@
 # sweet-mix
 
-https://github.com/irina-snezan/sweet-mix.git
+https://irina-snezan.github.io/sweet-mix/
